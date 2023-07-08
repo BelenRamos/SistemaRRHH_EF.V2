@@ -1,0 +1,1 @@
+En Migraciones--> el codigo de las clases esta en AccesoDatos, la conexion esta CodeFirstAPI
